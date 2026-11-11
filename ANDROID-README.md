@@ -1,6 +1,6 @@
-# Vvynas Vane for Android 1.13.0 — offline media player
+# Vvynas Vane for Android 1.14.10 — offline media player
 
-**Install:** copy `VvynasVane-1.13.0.apk` to the phone → open it → allow "install from this source" when asked.
+**Install:** copy `VvynasVane-1.14.10.apk` to the phone → open it → allow "install from this source" when asked.
 Works on Android 5.0 (API 21) and newer, including Android 14/15, phones, tablets and Chromebooks. ~4 MB. No internet needed — the app blocks all network requests.
 
 ## What it does
